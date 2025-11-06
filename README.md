@@ -1,16 +1,33 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=28&pause=3000&color=13A10E&width=435&lines=%24+echo+Hi+there!+I'm+Luci" alt="Typing SVG" /></a>
+</br>
+## Languages and tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="36" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobelightroom.svg" width="36" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="36" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="36" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" style="padding-right:10px;" />
+</p>
 
-<!--
-**lucianacarvl/lucianacarvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Get in touch :)
+<p align="left">
+  <a href="https://linkedin.com/in/lucianacarvl" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/3gj81ettybklol5ul5unndm9e?si=UbAvP1QKRWaipeSAkK1jQw" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/lucianacarvl" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:lucianacarvl.tech@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
