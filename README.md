@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=28&pause=3000&color=13A10E&width=435&lines=%24+echo+Hi+there!+I'm+Luci..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=3000&color=13A10E&width=435&lines=%24+echo+Hi+there!+I'm+Luci..." alt="Typing SVG" /></a>
 </br>
 ## Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=kali,powershell,python,kotlin,flutter,html,css,bootstrap,git,idea,pycharm,vscode,sublime,obsidian,gradle&theme=light)](https://skillicons.dev)
